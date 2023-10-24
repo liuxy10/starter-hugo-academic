@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Hi! I'm Xinyi Liu, currently working as a research assistant at Mechanical System & Control Lab at UC Berkeley led by Prof. Masayoshi Tomizuka. My interests revolves around human-robot interaction and safe interactive planning. I was fortunate to have worked with Professor Ram Vasudevan on trip-avoidance prosthesis. Prior to that, I worked with Professor Mark Mueller at UC Berkeley, investigating how to dock two drones via onboard sensing and computation only.
 {style="text-align: justify;"}
