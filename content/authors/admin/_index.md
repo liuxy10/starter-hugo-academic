@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 柳昕怡
+title: Xinyi Liu
 
 # Name pronunciation (optional)
 name_pronunciation: 
