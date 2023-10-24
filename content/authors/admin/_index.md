@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Hi! I'm Xinyi Liu, currently working as a research assistant at Mechanical System & Control Lab at UC Berkeley led by Prof. Masayoshi Tomizuka. My interests revolves around human-robot interaction and safe interactive planning. I was fortunate to have worked with Professor Ram Vasudevan on trip-avoidance prosthesis. Prior to that, I worked with Professor Mark Mueller at UC Berkeley, investigating how to dock two drones via onboard sensing and computation only.
+Hi! I'm Xinyi Liu, currently working as a research assistant at Mechanical System & Control Lab at UC Berkeley led by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). My interests revolves around human-robot interaction and safe interactive planning. During my time as a master student at the University of Michigan -- Ann Arbor, I was fortunate to have worked with [Prof. Ram Vasudevan](https://robotics.umich.edu/profile/ram-vasudevan/) on trip-avoidance prosthesis. Prior to that, I worked with [Professor Mark Mueller](https://me.berkeley.edu/people/mark-w-mueller/) at UC Berkeley, investigating how to dock two drones via onboard sensors and computation resource only.
 {style="text-align: justify;"}
